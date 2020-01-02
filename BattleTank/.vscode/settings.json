@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"/Users/devuser/Documents/Noor/GitHub/UnrealC/BattleTank/BattleTank/Saved": true,
+		"/Users/devuser/Documents/Noor/GitHub/UnrealC/BattleTank/BattleTank/Content": true,
+		"/Users/devuser/Documents/Noor/GitHub/UnrealC/BattleTank/BattleTank/.vscode": true,
+		"/Users/devuser/Documents/Noor/GitHub/UnrealC/BattleTank/BattleTank/Intermediate": true
+	}
+}
